@@ -1,0 +1,53 @@
+     body {
+          font-family: 'Roboto', sans-serif;
+          margin: 0;
+          padding: 0;
+          background-color: rgb(68, 173, 201);
+          color: rgb(226, 155, 68);
+          text-align: center;
+          font-size: 1.5em;
+      }
+        header {
+          background: #47e22c;
+          color: #e45353;
+          padding: 10px 0;
+          text-align: left;
+      }
+       nav {
+          background: #a0c869;
+          
+      }
+      nav ol {
+          list-style: none;
+          padding: 0;
+      }
+      nav ol li {
+          display: inline;
+          margin-right: 10px;
+      }
+      nav ol a {
+          color: #682e2e;
+          text-decoration: none;
+      }
+        nav ol a:hover {
+            text-decoration: underline;
+        }
+      
+      footer {
+          background: #333;
+          color: #41d27b;
+          text-align: center;
+          padding: 10px 0;
+          position: relative;
+          bottom: 0;
+          width: 100%;
+        }  
+        .csmju-text {
+          font-size: 1.2em;
+          color: #e56d6d;
+          margin: 50px 0;
+        }
+        .csimage {
+          width: 200px;
+          height: 350px;
+        }
